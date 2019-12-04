@@ -1,11 +1,11 @@
 {
-  "Add another lane": "+ Add another lane",
-  "Click to add card": "Click to add card",
-  "Delete lane": "Delete lane",
-  "Lane actions": "Lane actions",
+  "Add another lane": "+ Add another menu",
+  "Click to add card": "Click to add menu child",
+  "Delete lane": "Delete menu",
+  "Lane actions": "Menu actions",
   "button": {
-    "Add lane": "Add lane",
-    "Add card": "Add card",
+    "Add lane": "Add menu",
+    "Add card": "Add menu child",
     "Cancel": "Cancel"
   },
   "placeholder": {

@@ -24,7 +24,7 @@ export default class Board extends Component {
 
   render() {
     const {id, className, components} = this.props
-    const allClassNames = classNames('react-trello-board', className || '')
+    const allClassNames = classNames('react-trello-menu-board', className || '')
     return (
       <Provider store={this.store}>
         <>

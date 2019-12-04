@@ -1,6 +1,6 @@
 {
-  "name": "react-trello",
-  "description": "Pluggable components to add a trello like kanban board to your application",
+  "name": "react-trello-menu",
+  "description": "Pluggable components to add a trello like kanban board to your menu builder",
   "main": "dist/index.js",
   "jsnext:main": "src/components/index.js",
   "module": "src/components/index.js",
@@ -26,19 +26,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcdexta/react-trello"
+    "url": "https://github.com/andreioprisan/react-trello-menu"
   },
   "keywords": [
     "react",
     "trello",
     "board"
   ],
-  "author": "RC, Prakash",
+  "author": "Oprisan, Andrei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rcdexta/react-trello/issues"
+    "url": "https://github.com/andreioprisan/react-trello-menu/issues"
   },
-  "homepage": "https://github.com/rcdexta/react-trello",
+  "homepage": "https://github.com/andreioprisan/react-trello-menu",
   "dependencies": {
     "autosize": "^4.0.2",
     "classnames": "^2.2.6",
@@ -51,7 +51,8 @@
     "redux": "^4.0.0",
     "redux-actions": "^2.6.1",
     "redux-logger": "^3.0.6",
-    "smooth-dnd": "https://github.com/rcdexta/smooth-dnd",
+    "smooth-dnd": "https://github.com/andreioprisan/smooth-dnd",
+    "travis": "^0.1.1",
     "uuid": "^3.3.2"
   },
   "devDependencies": {

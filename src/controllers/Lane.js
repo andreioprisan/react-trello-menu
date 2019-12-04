@@ -155,7 +155,7 @@ class Lane extends Component {
           key={card.id}
           index={idx}
           style={card.style || cardStyle}
-          className="react-trello-card"
+          className="react-trello-menu-card"
           onDelete={onDeleteCard}
           onClick={e => this.handleCardClick(e, card)}
           showDeleteButton={!hideCardDeleteIcon}
@@ -237,7 +237,7 @@ class Lane extends Component {
       onCardMoveAcrossLanes,
       ...otherProps
     } = this.props
-    const allClassNames = classNames('react-trello-lane', this.props.className || '')
+    const allClassNames = classNames('react-trello-menu-lane', this.props.className || '')
     const showFooter = collapsibleLanes && cards.length > 0
     return (
       <components.Section

@@ -1,5 +1,5 @@
 {
-  "name": "react-trello",
+  "name": "react-trello-menu",
   "description": "Pluggable components to add a trello like kanban board to your application (browserified)",
   "main": "dist/index.js",
   "authors": [
@@ -12,7 +12,7 @@
     "trello",
     "board"
   ],
-  "homepage": "https://github.com/rcdexta/react-trello",
+  "homepage": "https://github.com/andreioprisan/react-trello-menu",
   "ignore": [
     "**/.*",
     "node_modules",

@@ -4,8 +4,8 @@ import {withOptions} from '@storybook/addon-options'
 
 addDecorator(
   withOptions({
-    name: 'react-trello',
-    url: 'https://github.com/rcdexta/react-trello',
+    name: 'react-trello-menu',
+    url: 'https://github.com/andreioprisan/react-trello-menu',
     goFullScreen: false,
     showStoriesPanel: true,
     showSearchBox: false,

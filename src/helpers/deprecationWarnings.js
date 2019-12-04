@@ -11,7 +11,7 @@ const REPLACE_TABLE = {
 
 const warn = (prop) => {
   const use = REPLACE_TABLE[prop]
-  console.warn(`react-trello property '${prop}' is removed. Use '${use}' instead. More - https://github.com/rcdexta/react-trello/blob/master/UPGRADE.md`)
+  console.warn(`react-trello-menu property '${prop}' is removed. Use '${use}' instead. More - https://github.com/andreioprisan/react-trello-menu/blob/master/UPGRADE.md`)
 }
 
 export default (props) => {
