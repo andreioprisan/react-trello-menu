@@ -2,7 +2,7 @@
 
 Pluggable components to add a trello-like kanban board to your menu builder based on react-trello v2.2.3 by Prakash RC (https://github.com/rcdexta/react-trello). This version adds additional menu-specific editing capabilities.
 
-[![Build Status](https://travis-ci.org/rcdexta/react-trello-menu.svg?branch=master)](https://travis-ci.org/rcdexta/react-trello-menu)
+[![Build Status](https://travis-ci.com/andreioprisan/react-trello-menu.svg?branch=master)](https://travis-ci.org/rcdexta/react-trello-menu)
 [![yarn version](https://badge.fury.io/js/react-trello-menu.svg)](https://badge.fury.io/js/react-trello-menu)
 [![bundlephobia.com](https://img.shields.io/bundlephobia/minzip/react-trello-menu.svg)](https://bundlephobia.com/result?p=react-trello-menu)
 
