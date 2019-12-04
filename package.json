@@ -126,5 +126,6 @@
       "path": "dist/**/*.js",
       "limit": "800 ms"
     }
-  ]
+  ],
+  "version": "1.0.1"
 }
