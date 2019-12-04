@@ -5,7 +5,7 @@ import Board from '../src'
 
 const data = require('./data/collapsible.json')
 
-const CustomAddCardLink =  ({onClick, t}) => <button onClick={onClick}>{t('Click to add card')}</button>
+const CustomAddCardLink =  ({onClick, t}) => <button onClick={onClick}>{t('Click to add menu child')}</button>
 
 storiesOf('Custom Components', module)
   .add(

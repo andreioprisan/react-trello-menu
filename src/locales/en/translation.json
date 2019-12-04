@@ -1,8 +1,8 @@
 {
-  "Add another lane": "+ Add another menu",
-  "Click to add card": "Click to add menu child",
-  "Delete lane": "Delete menu",
-  "Lane actions": "Menu actions",
+  "Add another menu": "+ Add another menu",
+  "Click to add menu child": "Click to add menu child",
+  "Delete menu": "Delete menu",
+  "Menu actions": "Menu actions",
   "button": {
     "Add lane": "Add menu",
     "Add card": "Add menu child",

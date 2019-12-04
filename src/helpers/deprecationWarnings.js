@@ -5,8 +5,8 @@ const REPLACE_TABLE = {
   newCardTemplate: 'components.NewCardForm',
   children: 'components.Card',
   customCardLayout: 'components.Card',
-  addLaneTitle: '`t` function with key "Add another lane"',
-  addCardLink: '`t` function with key "Click to add card"',
+  addLaneTitle: '`t` function with key "Add another menu"',
+  addCardLink: '`t` function with key "Click to add menu child"',
 }
 
 const warn = (prop) => {

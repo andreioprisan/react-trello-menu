@@ -27,10 +27,10 @@ storiesOf('I18n', module)
     () =>  {
 
       const TEXTS = {
-        "Add another lane": "NEW LANE",
-        "Click to add card": "Click to add card",
-        "Delete lane": "Delete lane",
-        "Lane actions": "Lane actions",
+        "Add another menu": "NEW LANE",
+        "Click to add menu child": "Click to add menu child",
+        "Delete menu": "Delete menu",
+        "Menu actions": "Menu actions",
         "button": {
           "Add lane": "Add lane",
           "Add card": "Add card",
@@ -52,10 +52,10 @@ storiesOf('I18n', module)
     'Flat translation table',
     () =>  {
       const FLAT_TRANSLATION_TABLE = {
-        "Add another lane": "+ Weitere Liste erstellen",
-        "Click to add card": "Klicken zum Erstellen einer Karte",
-        "Delete lane": "Liste löschen",
-        "Lane actions": "Listenaktionen",
+        "Add another menu": "+ Weitere Liste erstellen",
+        "Click to add menu child": "Klicken zum Erstellen einer Karte",
+        "Delete menu": "Liste löschen",
+        "Menu actions": "Listenaktionen",
         "button.Add lane": "Liste hinzufügen",
         "button.Add card": "Karte hinzufügen",
         "button.Cancel": "Abbrechen",

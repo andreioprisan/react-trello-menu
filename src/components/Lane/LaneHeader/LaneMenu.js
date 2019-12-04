@@ -20,13 +20,13 @@ const TEST= PropTypes.elementType;
 const LaneMenu = ({t, onDelete}) => (
   <Popover position="bottom" PopoverContainer={CustomPopoverContainer} PopoverContent={CustomPopoverContent} trigger={<MenuButton>⋮</MenuButton>}>
     <LaneMenuHeader>
-      <LaneMenuTitle>{t('Lane actions')}</LaneMenuTitle>
+      <LaneMenuTitle>{t('Menu actions')}</LaneMenuTitle>
       <DeleteWrapper>
         <GenDelButton>&#10006;</GenDelButton>
       </DeleteWrapper>
     </LaneMenuHeader>
     <LaneMenuContent>
-      <LaneMenuItem onClick={onDelete}>{t('Delete lane')}</LaneMenuItem>
+      <LaneMenuItem onClick={onDelete}>{t('Delete menu')}</LaneMenuItem>
     </LaneMenuContent>
   </Popover>
 )

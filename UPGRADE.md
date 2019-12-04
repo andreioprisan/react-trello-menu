@@ -9,8 +9,8 @@ Use translation function `t` to full control texts:
 
 | Legacy property     | Key name in components object|
 | ------------------- | ---------------------------- |
-| addLaneTitle         | "Add another lane"         |
-| addCardLink          | "Click to add card"       |
+| addLaneTitle         | "Add another menu"         |
+| addCardLink          | "Click to add menu child"       |
 
 [Complete list of available translation keys](src/locales/en/translation.json)
 
@@ -32,10 +32,10 @@ Use
 import { createTranslate } from 'react-trello-menu'
 
 const TEXTS = {
-  "Add another lane": "NEW LANE",
-  "Click to add card": "Click to add card",
-  "Delete lane": "Delete lane",
-  "Lane actions": "Lane actions",
+  "Add another menu": "NEW LANE",
+  "Click to add menu child": "Click to add menu child",
+  "Delete menu": "Delete menu",
+  "Menu actions": "Menu actions",
   "button": {
     "Add lane": "Add lane",
     "Add card": "ADD CARD",

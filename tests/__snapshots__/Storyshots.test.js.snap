@@ -13422,7 +13422,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -13508,7 +13508,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -13552,7 +13552,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -13679,7 +13679,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -13765,7 +13765,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -13851,7 +13851,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -13937,7 +13937,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -14023,7 +14023,7 @@ exports[`Storyshots Custom Components AddCardLink 1`] = `
               <button
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </button>
             </div>
           </section>
@@ -20292,7 +20292,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -20337,7 +20337,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -20465,7 +20465,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -20552,7 +20552,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -20639,7 +20639,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -20726,7 +20726,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -20813,7 +20813,7 @@ exports[`Storyshots Custom Components NewCardForm 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -22024,7 +22024,7 @@ exports[`Storyshots Custom Components NewLaneForm 1`] = `
                     <span
                       className="c10"
                     >
-                      Lane actions
+                      Menu actions
                     </span>
                     <div
                       className="c11"
@@ -22043,7 +22043,7 @@ exports[`Storyshots Custom Components NewLaneForm 1`] = `
                       className="c14"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Delete menu
                     </div>
                   </div>
                 </div>
@@ -22222,7 +22222,7 @@ exports[`Storyshots Custom Components NewLaneForm 1`] = `
                 className="c23"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -22236,7 +22236,7 @@ exports[`Storyshots Custom Components NewLaneForm 1`] = `
             className="c25"
             onClick={[Function]}
           >
-            + Add another lane
+            + Add another menu
           </button>
         </section>
       </div>
@@ -23166,7 +23166,7 @@ exports[`Storyshots Custom Components NewLaneSection 1`] = `
                     <span
                       className="c10"
                     >
-                      Lane actions
+                      Menu actions
                     </span>
                     <div
                       className="c11"
@@ -23185,7 +23185,7 @@ exports[`Storyshots Custom Components NewLaneSection 1`] = `
                       className="c14"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Delete menu
                     </div>
                   </div>
                 </div>
@@ -23364,7 +23364,7 @@ exports[`Storyshots Custom Components NewLaneSection 1`] = `
                 className="c23"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -23374,7 +23374,7 @@ exports[`Storyshots Custom Components NewLaneSection 1`] = `
         <button
           onClick={[Function]}
         >
-          + Add another lane
+          + Add another menu
         </button>
       </div>
     </div>
@@ -24478,7 +24478,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -24523,7 +24523,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -24651,7 +24651,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -24738,7 +24738,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -24825,7 +24825,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -24912,7 +24912,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -24999,7 +24999,7 @@ exports[`Storyshots Deprecation warnings v2.2 warnings 1`] = `
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -32582,7 +32582,7 @@ exports[`Storyshots Editable Board Add New Lane 1`] = `
                     <span
                       className="c10"
                     >
-                      Lane actions
+                      Menu actions
                     </span>
                     <div
                       className="c11"
@@ -32601,7 +32601,7 @@ exports[`Storyshots Editable Board Add New Lane 1`] = `
                       className="c14"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Delete menu
                     </div>
                   </div>
                 </div>
@@ -32780,7 +32780,7 @@ exports[`Storyshots Editable Board Add New Lane 1`] = `
                 className="c23"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -32794,7 +32794,7 @@ exports[`Storyshots Editable Board Add New Lane 1`] = `
             className="c25"
             onClick={[Function]}
           >
-            + Add another lane
+            + Add another menu
           </button>
         </section>
       </div>
@@ -33903,7 +33903,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -33952,7 +33952,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -34084,7 +34084,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -34175,7 +34175,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -34266,7 +34266,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -34357,7 +34357,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -34448,7 +34448,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
                   className="c14"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -34586,7 +34586,7 @@ exports[`Storyshots Editable Board Add/Delete Cards 1`] = `
               }
             }
           >
-            Add/delete cards or delete lanes
+            Add/delete cards or Delete menus
           </div>
         </div>
         <div>
@@ -35916,7 +35916,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -35961,7 +35961,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -36089,7 +36089,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -36176,7 +36176,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -36263,7 +36263,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -36350,7 +36350,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -36437,7 +36437,7 @@ exports[`Storyshots Editable Board Disallow Adding Card for specific Lane 1`] = 
                 className="c14"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -37642,7 +37642,7 @@ exports[`Storyshots Editable Board Inline Edit Lane Title 1`] = `
                     <span
                       className="c11"
                     >
-                      Lane actions
+                      Menu actions
                     </span>
                     <div
                       className="c12"
@@ -37661,7 +37661,7 @@ exports[`Storyshots Editable Board Inline Edit Lane Title 1`] = `
                       className="c15"
                       onClick={[Function]}
                     >
-                      Delete lane
+                      Delete menu
                     </div>
                   </div>
                 </div>
@@ -37840,7 +37840,7 @@ exports[`Storyshots Editable Board Inline Edit Lane Title 1`] = `
                 className="c24"
                 onClick={[Function]}
               >
-                Click to add card
+                Click to add menu child
               </a>
             </div>
           </section>
@@ -37854,7 +37854,7 @@ exports[`Storyshots Editable Board Inline Edit Lane Title 1`] = `
             className="c26"
             onClick={[Function]}
           >
-            + Add another lane
+            + Add another menu
           </button>
         </section>
       </div>
@@ -38858,7 +38858,7 @@ exports[`Storyshots I18n Custom texts 1`] = `
                       <span
                         className="c10"
                       >
-                        Lane actions
+                        Menu actions
                       </span>
                       <div
                         className="c11"
@@ -38877,7 +38877,7 @@ exports[`Storyshots I18n Custom texts 1`] = `
                         className="c14"
                         onClick={[Function]}
                       >
-                        Delete lane
+                        Delete menu
                       </div>
                     </div>
                   </div>
@@ -39056,7 +39056,7 @@ exports[`Storyshots I18n Custom texts 1`] = `
                   className="c23"
                   onClick={[Function]}
                 >
-                  Click to add card
+                  Click to add menu child
                 </a>
               </div>
             </section>
@@ -41247,7 +41247,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                         <span
                           className="c10"
                         >
-                          Lane actions
+                          Menu actions
                         </span>
                         <div
                           className="c11"
@@ -41266,7 +41266,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                           className="c14"
                           onClick={[Function]}
                         >
-                          Delete lane
+                          Delete menu
                         </div>
                       </div>
                     </div>
@@ -41445,7 +41445,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                     className="c23"
                     onClick={[Function]}
                   >
-                    Click to add card
+                    Click to add menu child
                   </a>
                 </div>
               </section>
@@ -41460,7 +41460,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
               className="c25"
               onClick={[Function]}
             >
-              + Add another lane
+              + Add another menu
             </button>
           </section>
         </div>
@@ -42289,7 +42289,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                             }
                                           }
                                         >
-                                          Add another lane
+                                          Add another menu
                                         </span>
                                       </span>
                                       : 
@@ -42301,7 +42301,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                           }
                                         }
                                       >
-                                        '+ Add another lane'
+                                        '+ Add another menu'
                                       </span>
                                       ,
                                       <span>
@@ -42317,7 +42317,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                             }
                                           }
                                         >
-                                          Click to add card
+                                          Click to add menu child
                                         </span>
                                       </span>
                                       : 
@@ -42329,7 +42329,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                           }
                                         }
                                       >
-                                        'Click to add card'
+                                        'Click to add menu child'
                                       </span>
                                       ,
                                       <span>
@@ -42345,7 +42345,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                             }
                                           }
                                         >
-                                          Delete lane
+                                          Delete menu
                                         </span>
                                       </span>
                                       : 
@@ -42357,7 +42357,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                           }
                                         }
                                       >
-                                        'Delete lane'
+                                        'Delete menu'
                                       </span>
                                       ,
                                       <span>
@@ -42430,7 +42430,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                             }
                                           }
                                         >
-                                          Add another lane
+                                          Add another menu
                                         </span>
                                       </span>
                                       : 
@@ -42458,7 +42458,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                             }
                                           }
                                         >
-                                          Click to add card
+                                          Click to add menu child
                                         </span>
                                       </span>
                                       : 
@@ -42486,7 +42486,7 @@ exports[`Storyshots I18n Using i18next 1`] = `
                                             }
                                           }
                                         >
-                                          Delete lane
+                                          Delete menu
                                         </span>
                                       </span>
                                       : 

@@ -42,7 +42,7 @@ storiesOf('Editable Board', module)
         />
       )
     },
-    {info: 'Add/delete cards or delete lanes'}
+    {info: 'Add/delete cards or Delete menus'}
   )
   .add(
     'Add New Lane',
