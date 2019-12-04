@@ -51,7 +51,7 @@
     "redux": "^4.0.0",
     "redux-actions": "^2.6.1",
     "redux-logger": "^3.0.6",
-    "smooth-dnd": "https://github.com/andreioprisan/smooth-dnd",
+    "smooth-dnd": "https://github.com/rcdexta/smooth-dnd",
     "travis": "^0.1.1",
     "uuid": "^3.3.2"
   },
